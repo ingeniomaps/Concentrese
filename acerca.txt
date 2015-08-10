@@ -1,0 +1,16 @@
+<html>
+<FONT FACE="Kristen ITC" SIZE="2" COLOR="Blue">
+<p>
+UNIVERSIDAD DISTRITAL <BR>FRANCISCO JOSE DE CALDAS
+</p>
+<p><BR>
+Version 1.0 (NetBeans 7.0.1)<BR>
+Todos los derechos reservados.
+</p>
+<BR>
+ <p>
+Concentrece, desarrollado por:<BR>
+Manuel Alejandro Pinzon Salgado
+</p>
+</Font>
+</html>

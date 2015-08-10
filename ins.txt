@@ -1,0 +1,17 @@
+<html>
+<FONT FACE="Informal Roman" SIZE="8" COLOR="9e16e4">
+<p align="center">
+Instrucciones
+</p>
+</Font>
+<FONT FACE="Kristen ITC" SIZE="4" COLOR="Blue">
+<p>
+<BR>
+1. Se deben hacer parejas.
+</p>
+<BR>
+ <p>
+2. Si es multijugador el que halla hecho mas<BR>parejas gana.
+</p>
+</Font>
+</html>
